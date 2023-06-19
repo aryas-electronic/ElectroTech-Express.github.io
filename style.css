@@ -1,0 +1,21 @@
+div#section-1_row-1{
+    text-align: center;
+}
+div#section-1_login_sign-up{
+    text-align: right;
+}
+div#section-1_header{
+    text-align: center;
+}
+div#section-1_vid-button{
+    text-align: center;
+}
+div#section-2_row-1{
+    display: flex;
+    justify-content: space-between;
+}
+div#options-help{
+   display: flex;
+   gap: 20px;
+}
+div
