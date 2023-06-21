@@ -1,3 +1,6 @@
+a{
+    text-decoration: none;
+}
 div#section-1_row-1{
     text-align: center;
 }
@@ -17,5 +20,32 @@ div#section-2_row-1{
 div#options-help{
    display: flex;
    gap: 20px;
+   
 }
-div
+div#section-2_row-2{
+    display: flex;
+    text-align: center;
+}
+div#section-2_row-3{
+    text-align: center;
+}
+
+div#credits{
+    text-align: center;
+}
+button{
+    padding: 10px 16px 10px 16px;
+    font-size: 24px;
+    background :transparent;
+    border: transparent;
+    border-bottom: 2px solid transparent;
+   
+}
+button:hover{
+    color: orange;
+    background: black;
+    cursor: pointer;
+    transition-duration: 0.5s;
+    border-bottom: 2px solid orange;
+    box-shadow: 6px 6px 4px lightgrey;
+}
